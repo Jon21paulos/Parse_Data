@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parse Data</string>
+    <string name="trivia_question_title">Trivia Questions</string>
+    <string name="question_out_text">Question</string>
+    <string name="text_out_of">Question:45/89</string>
+    <string name="true_button_text">True</string>
+    <string name="false_button_text">False</string>
+    <string name="next_button_text">Next</string>
+</resources>

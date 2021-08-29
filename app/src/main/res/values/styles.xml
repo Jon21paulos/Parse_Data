@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MainTextStyle">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:padding">@dimen/text_padding</item>
+        <item name="android:textColor">@color/light_gray_txt_color</item>
+    </style>
+
+    <style name="ButtonStyle">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/button_margin</item>
+        <item name="android:backgroundTint">#6D101326</item>
+        <item name="android:foregroundTint">#4A5370</item>
+        <item name="android:padding">@dimen/button_padding</item>
+        <item name="android:textColor">@color/button_text_color</item>
+    </style>
+</resources>
